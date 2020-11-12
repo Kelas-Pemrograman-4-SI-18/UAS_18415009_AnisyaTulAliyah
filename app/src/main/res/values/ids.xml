@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnBack" type="id" />
+    <item name="btnregis" type="id" />
+    <item name="txtkodeBarang" type="id" />
+    <item name="txtnamabarang" type="id" />
+    <item name="txthargabarang" type="id" />
+    <item name="txtjumblaharang" type="id" />
+    <item name="txtjumblahbarang" type="id" />
+    <item name="txttanggalmasukbarang" type="id" />
+    <item name="gambarMebel" type="id" />
+    <item name="edttanggalmasukbarang" type="id" />
+</resources>
